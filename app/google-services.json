@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "272702344444",
+    "project_id": "sandbox-f5337",
+    "storage_bucket": "sandbox-f5337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272702344444:android:df12da0241f2c129fb9b79",
+        "android_client_info": {
+          "package_name": "io.aeroflux.notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYuRwMDma8W1jHqIGZPP6t8Evrm2aLOeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272702344444:android:65e95a1ee3e72a30fb9b79",
+        "android_client_info": {
+          "package_name": "io.aeroflux.sandbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYuRwMDma8W1jHqIGZPP6t8Evrm2aLOeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
